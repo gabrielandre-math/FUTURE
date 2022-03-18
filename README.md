@@ -1,2 +1,2 @@
 # Future
-A future project.
+Sticky NavBar With JQuery using HTML, CSS & JavaScript
