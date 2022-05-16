@@ -68,9 +68,7 @@ section.sec1 {
   background-position: center;
 }
 
-.content {
-  margin-top: 80px;
-}
+.content { margin-top: 80px; }
 
 .content p {
   width: 900px;
