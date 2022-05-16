@@ -52,9 +52,7 @@ nav ul li a {
 
 nav.black ul li a { color: #fff; }
 
-nav ul li a:focus {
-  outline: none;
-}
+nav ul li a:focus { outline: none; }
 
 nav ul li a.active {
   background: #e2472f;
