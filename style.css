@@ -29,9 +29,7 @@ nav .logo {
   transition: 0.3s;
 }
 
-nav.black .logo {
-  color: #fff;
-}
+nav.black .logo { color: #fff; }
 
 nav ul {
   list-style: none;
