@@ -14,7 +14,6 @@ nav {
   box-sizing: border-box;
   transition: 0.3s;
 }
-
 nav.black {
   background: rgba(0, 0, 0, 0.8);
   height: 100px;
