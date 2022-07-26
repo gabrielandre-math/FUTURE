@@ -1,5 +1,5 @@
 # Sticky NavBar HTML | CSS | JS
-Sticky NavBar With JQuery using HTML, CSS & JavaScript
+Sticky NavBar With JQuery using HTML, CSS & JavaScript.
 
 Codepen link --> https://codepen.io/ANDREGABRIELS/pen/JjMXJwB
 
